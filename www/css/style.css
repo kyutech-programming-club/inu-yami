@@ -1,0 +1,18 @@
+/**/
+
+.says {
+  display: inline-block;
+  position: relative; 
+  margin: 5px 0px 0px 0px;
+  padding: 17px 13px;
+  border-radius: 12px;
+  background:#99FF33;
+}
+.says p {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  background-color: yellow;
+}
