@@ -1,4 +1,4 @@
-var ncmb = new NCMB("57c641f98e63a2cdf002048095d332a105ed4c92c00113efea3f6e711378f99d", "847ced62afb04020a3358adbf108eb662f2ce60e65c5c9da627d446c8014a2bf");
+var ncmb = new NCMB("APIKEY", "CLIENTKEY"); //https://mbaas.nifcloud.com/
 var History = ncmb.DataStore("History");
 const distance_threshold = 2;
 
